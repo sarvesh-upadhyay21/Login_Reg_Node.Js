@@ -21,7 +21,7 @@
     "apis": [
         "./index.js"
     ],
-    "host": "localhost:8000",
+    "host": "loginregnodejs-production.up.railway.app",
     "paths": {
         "/api/get": {
             "get": {
